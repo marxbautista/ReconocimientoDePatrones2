@@ -96,7 +96,7 @@ namespace ReconocimientoDePatrones
 
         private void cargarToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            //este es otro cometario
         }
     }
 }

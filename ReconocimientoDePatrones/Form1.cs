@@ -90,7 +90,8 @@ namespace ReconocimientoDePatrones
 
         private void guardarToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            //este es un comentario
+            //esta es un alinea nueva
         }
 
         private void cargarToolStripMenuItem_Click(object sender, EventArgs e)
